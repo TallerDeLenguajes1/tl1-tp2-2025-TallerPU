@@ -1,0 +1,2 @@
+No se ve el tp2_1_2.c por que se creo en la rama Opcion_2 y hasta que no se haga un merge
+no aparecera en la rama principal
